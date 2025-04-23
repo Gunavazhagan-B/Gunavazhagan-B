@@ -1,11 +1,10 @@
-# 👋 Hi, I'm [Your Name] 
+# 👋 Hi, I'm Gunavazhagan
 
-### **AI & Full-Stack Developer | Open-Source Enthusiast | Tech Blogger**  
+### **AI & Full-Stack Developer | Open-Source Enthusiast **  
 
 🔭 **Working on:** Building AI-powered web apps  
-🌱 **Learning:** Rust, LLMs, and Cloud Architecture  
+🌱 **Learning:** Python, LLMs, and Cloud Architecture  
 💬 **Ask me about:** Python, React, or Neural Networks  
-⚡ **Fun fact:** I automate my home with Raspberry Pi  
 
 ---
 
@@ -14,8 +13,8 @@
 ### **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C]()
 
 ### **Frontend**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
