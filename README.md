@@ -39,26 +39,6 @@
 
 ---
 
-## 📊 **GitHub Stats**  
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true)
-
----
-
-## 🎨 **Projects & Contributions**  
-
-🔹 **[Project 1](https://github.com/your/project1)** – AI Chatbot with GPT-4  
-🔹 **[Project 2](https://github.com/your/project2)** – Serverless E-Commerce App  
-🔹 **[Project 3](https://github.com/your/project3)** – Open-Source CLI Tool  
-
-⭐ **Contributed to:** [Popular-Repo](https://github.com/org/repo) | [Another-Repo](https://github.com/org/repo)  
-
----
-
 ## 🌐 **Let's Connect!**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
@@ -67,22 +47,3 @@
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yourname)
 
 ---
-
-## 💡 **Quote of the Day**  
-
-> "The only way to do great work is to love what you do." – **Steve Jobs**  
-
----
-
-## 🎶 **Now Playing** (Spotify)  
-
-[![Spotify](https://spotify-readme-phi.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)  
-
-*(Requires Spotify API setup – optional)*  
-
----
-
-### **Thanks for visiting!** ✨  
-*"Code, Coffee, Repeat."*  
-
-![Footer Wave](https://raw.githubusercontent.com/yourusername/yourusername/main/wave.gif) *(optional animated GIF)*  
