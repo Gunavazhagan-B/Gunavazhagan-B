@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gunavazhagan
 
-### **AI & Full-Stack Developer | Open-Source Enthusiast **  
+### AI & Full-Stack Developer | Open-Source Enthusiast 
 
 🔭 **Working on:** Building AI-powered web apps  
 🌱 **Learning:** Python, LLMs, and Cloud Architecture  
