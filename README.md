@@ -45,7 +45,7 @@
 
 ## 📊 **GitHub Activity**
 <!-- Snake animation for contributions -->
-![Contribution Snake](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
+![Contribution Snake](https://github.com/Gunavazhagan-B/Gunavazhagan-B/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
