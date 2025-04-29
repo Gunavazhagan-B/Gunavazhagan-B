@@ -12,7 +12,7 @@
 
 ### **Most Used Languages**
 <!-- Dynamic language stats - replace 'yourusername' -->
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default&hide_border=true)](https://github.com/yourusername)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gunavazhagan-B&layout=compact&theme=default&hide_border=true)](https://github.com/yourusername)
 
 ### **Programming Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
