@@ -57,10 +57,6 @@
 
 ---
 
-## 📊 **GitHub Activity**
-<!-- Snake animation for contributions -->
-![Contribution Snake](https://github.com/Gunavazhagan-B/Gunavazhagan-B/blob/output/github-contribution-grid-snake.svg)
-
 ---
 
 ## 🌐 **Let's Connect!**  
